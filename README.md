@@ -1,4 +1,4 @@
 LinkControl
 ===========
 
-Take control over your links! The next evolution in Affiliate Marketing.
+Take control over your links! The next evolution in Affiliate Marketing goes Open Source!
